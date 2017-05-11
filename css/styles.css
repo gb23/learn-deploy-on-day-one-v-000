@@ -1,4 +1,3 @@
-
 /* GLOBAL STYLES
 ======================== */
 *, *:before, *:after {
@@ -4804,7 +4803,12 @@ a:visited {
 #aimee-carney-card {
     background-image: url("http://imgur.com/cDtNGGi.jpg7");
 }
-
+#greg-benjamin-cover {
+  background-image: url("http://imgur.com/liM7HrJ.jpg")
+}
+#greg-benjamin-card {
+  background-image: url("http://imgur.com/jpuELAW.jpg")
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
